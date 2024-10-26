@@ -5,7 +5,7 @@ team member:
 <br />Yusi Lei, maxinerea2024@hotmail.com
 
 # Our work is live on notion site! 
-🔮 click this: https://malachite-amaryllis-100.notion.site/Ethereum-smart-contract-event-data-analysis-12bcda0e602e80c88603c3ee6c72b4ed
+🔮 click this: https://malachite-amaryllis-100.notion.site/Ethereum-smart-contract-event-data-analysis-12bcda0e602e80c88603c3ee6c72b4ed and check our project details!
 
 # Project Description
 <br /> For this challenge we did investigations on Ethereum smart contract event data to explore patterns and trends. Major part of the analysis is made by SQL queries and lookerstudio (Google Data Studio), see the notion site link for detailed process.
