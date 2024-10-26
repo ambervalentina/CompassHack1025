@@ -1,0 +1,59 @@
+[
+ {
+  "event_name": "Borrow"
+ },
+ {
+  "event_name": "Burn"
+ },
+ {
+  "event_name": "Collect"
+ },
+ {
+  "event_name": "Flash"
+ },
+ {
+  "event_name": "FlashLoan"
+ },
+ {
+  "event_name": "IncreaseObservationCardinalityNext"
+ },
+ {
+  "event_name": "Initialize"
+ },
+ {
+  "event_name": "IsolationModeTotalDebtUpdated"
+ },
+ {
+  "event_name": "LiquidationCall"
+ },
+ {
+  "event_name": "Mint"
+ },
+ {
+  "event_name": "MintedToTreasury"
+ },
+ {
+  "event_name": "Repay"
+ },
+ {
+  "event_name": "ReserveDataUpdated"
+ },
+ {
+  "event_name": "ReserveUsedAsCollateralDisabled"
+ },
+ {
+  "event_name": "ReserveUsedAsCollateralEnabled"
+ },
+ {
+  "event_name": "Supply"
+ },
+ {
+  "event_name": "Swap"
+ },
+ {
+  "event_name": "UserEModeSet"
+ },
+ {
+  "event_name": "Withdraw"
+ }
+]
