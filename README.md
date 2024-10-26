@@ -1,4 +1,5 @@
 # CompassHack1025
-team member: Zuyue Jiang, 
+team member: 
+<br />Zuyue Jiang, ambervalentinag@gmail.com
 <br />Grace Chen, hlchen_grace@outlook.com
 <br />Yusi Lei, maxinerea2024@hotmail.com
